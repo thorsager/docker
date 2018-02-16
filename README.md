@@ -1,2 +1,5 @@
 # docker
-A docker image with some added utils and programes 
+A docker image with some added stuff:
+ - bash
+ - git
+ - subversion
